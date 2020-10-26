@@ -6,6 +6,8 @@ public class firstGit {
 
 		System.out.println("first git");
 		System.out.println("second git");
+		
+		System.out.println("this is child branch");
 
 	}
 
