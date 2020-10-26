@@ -12,7 +12,7 @@ public class firstGit {
 		// this is added from github
 		
 		// added in another branch to merge with local master
-
+		// this line is added by branch 2
 	}
 
 }
